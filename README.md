@@ -1,2 +1,2 @@
 # Blender
-Proyectos 3D hechos en Blener
+Proyectos 3D hechos en Blender
